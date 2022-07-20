@@ -1,4 +1,4 @@
-# UAS_Pemrograman_WEB_CodeIgniter3
+# Prototype Aplikasi Berbasis WEB
 Tugas UAS Pemrograman WEB, CodeIgniter 3, Universitas Boyolali (UBY) 2022
 
 Tools:
